@@ -6,11 +6,28 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "json-server": "json-server --watch db.json --port 8000"
   },
   "dependencies": {
+    "@chakra-ui/next-js": "^2.2.0",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "axios": "^1.7.3",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^5.3.3",
+    "date-fns": "^3.6.0",
+    "dotenv": "^16.4.5",
+    "framer-motion": "^11.3.21",
+    "json-server": "^1.0.0-beta.1",
+    "next": "14.2.3",
+    "next-auth": "^4.24.7",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "react-icons": "^5.2.1",
+    "react-lazyload": "^3.2.1",
+    "sequelize": "^6.37.3",
+    "swiper": "^11.1.8"
   }
 }

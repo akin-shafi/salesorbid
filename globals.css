@@ -1,0 +1,29 @@
+/* Desktop Menu Styles */
+.main-menu .menu-list>li:hover .sub-menu {
+  display: block;
+}
+
+/* Mobile Menu Styles */
+.mobile-menu {
+  display: none;
+}
+
+.mobile-menu.show-menu {
+  display: block;
+}
+
+.menu-item-has-children .sub-menu {
+  display: none;
+}
+
+.menu-item-has-children .sub-menu.d-block {
+  display: block;
+}
+
+.menu-item-has-children .dropdown-icon {
+  transition: transform 0.3s;
+}
+
+.menu-item-has-children .dropdown-icon.bi-dash {
+  transform: rotate(45deg);
+}

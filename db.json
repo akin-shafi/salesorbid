@@ -1,0 +1,175 @@
+{
+    "auctions": [
+        {
+            "id": 1,
+            "title": "Antique Pocket Watch",
+            "description": "Rare vintage pocket watch from the 1800s.",
+            "price": 500,
+            "endDate": "2023-12-31",
+            "seller": "John Doe",
+            "category": "Collectibles",
+            "country": "Algeria",
+            "condition": "Used",
+            "popular": true
+        },
+        {
+            "id": 2,
+            "title": "Vintage Vinyl Record",
+            "description": "A rare vintage vinyl record from the 1960s.",
+            "price": 150,
+            "endDate": "2024-01-15",
+            "seller": "Jane Smith",
+            "category": "Music",
+            "country": "Benin",
+            "condition": "New",
+            "popular": false
+        },
+        {
+            "id": 3,
+            "title": "Classic Car Model",
+            "description": "A beautifully restored classic car model from the 1950s.",
+            "price": 3000,
+            "endDate": "2024-02-20",
+            "seller": "Mike Johnson",
+            "category": "Car",
+            "country": "Botswana",
+            "condition": "Refurbished",
+            "popular": true
+        },
+        {
+            "id": 4,
+            "title": "Antique Painting",
+            "description": "A rare antique painting from the Renaissance period.",
+            "price": 2500,
+            "endDate": "2024-03-10",
+            "seller": "Sarah Lee",
+            "category": "Art",
+            "country": "Angola",
+            "condition": "Used",
+            "popular": true
+        },
+        {
+            "id": 5,
+            "title": "Old Coin Collection",
+            "description": "An old collection of rare coins from various countries.",
+            "price": 800,
+            "endDate": "2024-04-25",
+            "seller": "John Doe",
+            "category": "Collectibles",
+            "country": "Algeria",
+            "condition": "New",
+            "popular": false
+        },
+        {
+            "id": 6,
+            "title": "Classic Guitar",
+            "description": "A classic guitar with vintage sound and design.",
+            "price": 1200,
+            "endDate": "2024-05-30",
+            "seller": "Jane Smith",
+            "category": "Music",
+            "country": "Benin",
+            "condition": "Used",
+            "popular": true
+        },
+        {
+            "id": 7,
+            "title": "Luxury Watch",
+            "description": "A luxury watch with gold finish and intricate design.",
+            "price": 2000,
+            "endDate": "2024-06-15",
+            "seller": "Mike Johnson",
+            "category": "Collectibles",
+            "country": "Botswana",
+            "condition": "New",
+            "popular": true
+        },
+        {
+            "id": 8,
+            "title": "Antique Vase",
+            "description": "A delicate antique vase from ancient China.",
+            "price": 1500,
+            "endDate": "2024-07-10",
+            "seller": "Sarah Lee",
+            "category": "Art",
+            "country": "Angola",
+            "condition": "Refurbished",
+            "popular": false
+        },
+        {
+            "id": 9,
+            "title": "Vintage Camera",
+            "description": "A vintage camera from the 1950s with original accessories.",
+            "price": 450,
+            "endDate": "2024-08-20",
+            "seller": "John Doe",
+            "category": "Collectibles",
+            "country": "Algeria",
+            "condition": "Used",
+            "popular": true
+        },
+        {
+            "id": 10,
+            "title": "Retro Arcade Machine",
+            "description": "A retro arcade machine with classic games from the 1980s.",
+            "price": 3500,
+            "endDate": "2024-09-15",
+            "seller": "Jane Smith",
+            "category": "Collectibles",
+            "country": "Benin",
+            "condition": "New",
+            "popular": true
+        }
+    ],
+    "total": 10,
+    "categories": [
+        {
+            "id": 1,
+            "name": "Art"
+        },
+        {
+            "id": 2,
+            "name": "Collectibles"
+        },
+        {
+            "id": 3,
+            "name": "Music"
+        },
+        {
+            "id": 4,
+            "name": "Car"
+        }
+    ],
+    "countries": [
+        {
+            "id": 1,
+            "name": "Algeria"
+        },
+        {
+            "id": 2,
+            "name": "Angola"
+        },
+        {
+            "id": 3,
+            "name": "Benin"
+        },
+        {
+            "id": 4,
+            "name": "Botswana"
+        }
+    ],
+    "conditions": [
+        {
+            "id": 1,
+            "name": "New"
+        },
+        {
+            "id": 2,
+            "name": "Used"
+        },
+        {
+            "id": 4,
+            "name": "Refurbished"
+        }
+    ]
+}
