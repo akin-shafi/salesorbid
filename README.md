@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+SalesorBid is an e-auction platform an online marketplace where users can buy and sell items through a bidding process. Sellers list their products, set starting prices, and interested buyers place bids. The highest bidder wins the item when the auction ends. These platforms often include features like product categorization, detailed product pages, and search filters for efficient browsing.
 
 ## Getting Started
 
